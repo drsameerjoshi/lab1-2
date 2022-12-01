@@ -1,0 +1,7 @@
+position: absolute;
+            width: auto;
+            max-width: 150px;
+            display: none;
+            top: 42.5px;
+            background-color: whitesmoke;
+            padding: 0%;
